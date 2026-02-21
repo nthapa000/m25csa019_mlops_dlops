@@ -1,0 +1,2 @@
+# to build the docker image
+docker build -t set_a_m25csa019 .
